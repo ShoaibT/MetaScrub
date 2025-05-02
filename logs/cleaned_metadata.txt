@@ -1,0 +1,169 @@
+
+File: 6813945c52a8c.tiff
+Size: 106.39 KB
+Last Modified: May 1, 2025, 5:33 pm
+
+Array
+(
+    [FILE] => Array
+        (
+            [FileName] => 6813945c52a8c.tiff
+            [FileDateTime] => May 1, 2025, 5:33 pm
+            [FileSize] => 106.39 KB
+            [FileType] => 8
+            [MimeType] => image/tiff
+            [SectionsFound] => ANY_TAG, IFD0
+        )
+
+    [COMPUTED] => Array
+        (
+            [html] => width="200" height="200"
+            [Height] => 200
+            [Width] => 200
+            [IsColor] => 1
+            [ByteOrderMotorola] => 1
+        )
+
+    [IFD0] => Array
+        (
+            [ImageWidth] => 200
+            [ImageLength] => 200
+            [BitsPerSample] => Array
+                (
+                    [0] => 8
+                    [1] => 8
+                    [2] => 8
+                    [3] => 8
+                )
+
+            [Compression] => 8
+            [PhotometricInterpretation] => 2
+            [StripOffsets] => 1000
+            [SamplesPerPixel] => 4
+            [RowsPerStrip] => 200
+            [StripByteCounts] => 107940
+            [XResolution] => 72/1
+            [YResolution] => 72/1
+            [PlanarConfiguration] => 1
+            [XPosition] => 0/1
+            [YPosition] => 0/1
+            [ResolutionUnit] => 2
+            [Software] => Photopea (UTIF.js)
+            [ExtraSample] => 1
+        )
+
+)
+
+
+File: 6813949f72643.webp
+Size: 14.25 MB
+Last Modified: May 1, 2025, 5:34 pm
+
+Array
+(
+    [0] => No metadata found
+    [FILE] => Array
+        (
+            [FileDateTime] => May 1, 2025, 5:34 pm
+            [FileSize] => 14.25 MB
+        )
+
+)
+
+
+File: 6813954df0407.heic
+Size: 286.73 KB
+Last Modified: May 1, 2025, 5:37 pm
+
+Array
+(
+    [0] => No metadata found
+    [FILE] => Array
+        (
+            [FileDateTime] => May 1, 2025, 5:37 pm
+            [FileSize] => 286.73 KB
+        )
+
+)
+
+
+File: 6813955dbf766.heic
+Size: 286.73 KB
+Last Modified: May 1, 2025, 5:38 pm
+
+Array
+(
+    [0] => No metadata found
+    [FILE] => Array
+        (
+            [FileDateTime] => May 1, 2025, 5:38 pm
+            [FileSize] => 286.73 KB
+        )
+
+)
+
+
+File: 6813972c4672b.heic
+Size: 40.49 KB
+Last Modified: May 1, 2025, 5:45 pm
+
+Array
+(
+    [0] => No metadata found
+    [FILE] => Array
+        (
+            [FileDateTime] => May 1, 2025, 5:45 pm
+            [FileSize] => 40.49 KB
+        )
+
+)
+
+
+File: 68139752f28fc.heic
+Size: 1.54 MB
+Last Modified: May 1, 2025, 5:46 pm
+
+Array
+(
+    [0] => No metadata found
+    [FILE] => Array
+        (
+            [FileDateTime] => May 1, 2025, 5:46 pm
+            [FileSize] => 1.54 MB
+        )
+
+)
+
+
+File: 6813975dd9352.heic
+Size: 1.54 MB
+Last Modified: May 1, 2025, 5:46 pm
+
+Array
+(
+    [0] => No metadata found
+    [FILE] => Array
+        (
+            [FileDateTime] => May 1, 2025, 5:46 pm
+            [FileSize] => 1.54 MB
+        )
+
+)
+
+
+File: 681397912fb78.heic
+Size: 813.75 KB
+Last Modified: May 1, 2025, 5:47 pm
+
+Array
+(
+    [0] => No metadata found
+    [FILE] => Array
+        (
+            [FileDateTime] => May 1, 2025, 5:47 pm
+            [FileSize] => 813.75 KB
+        )
+
+)
+
+
